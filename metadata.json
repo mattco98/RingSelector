@@ -1,0 +1,7 @@
+{
+    "name": "RingSelector",
+    "author": "Ecolsson",
+    "description": "A configurable ring selector menu",
+    "version": "1.2.0",
+    "entry": "example.js"
+}
